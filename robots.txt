@@ -1,0 +1,6 @@
+# robots.txt untuk CS Tokocrypto
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://cs-tokocrypto.vercel.app/sitemap.xml
